@@ -1,13 +1,13 @@
-[gd_scene load_steps=19 format=3 uid="uid://c2meiatwul2a0"]
+[gd_scene load_steps=20 format=3 uid="uid://c2meiatwul2a0"]
 
-[ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_ih6m8"]
+[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_ih6m8"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_ws06l"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_4kheq"]
 [ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://scenes/killzone.tscn" id="4_unl7h"]
 [ext_resource type="PackedScene" uid="uid://ipcpyxf7vqhy" path="res://scenes/espinhos.tscn" id="6_cjydu"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="7_t3aqp"]
 [ext_resource type="PackedScene" uid="uid://d2w2i5h0lhc6l" path="res://scenes/slime.tscn" id="8_vemsr"]
-[ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="9_fix46"]
+[ext_resource type="Script" path="res://scripts/Camera2D.gd" id="9_fix46"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="10_w1jyh"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="11_638qp"]
 [ext_resource type="PackedScene" uid="uid://cayxes377f026" path="res://scenes/menu.tscn" id="12_ysc34"]
@@ -318,6 +318,9 @@ size = Vector2(38, 859.5)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_pjn14"]
 size = Vector2(45, 721)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8qu1o"]
+size = Vector2(188.6, 12)
+
 [node name="Node2D" type="Node2D"]
 position = Vector2(51, 0)
 metadata/_edit_vertical_guides_ = [-704.0, 1695.0, -707.0, 1697.0]
@@ -532,3 +535,23 @@ rotation = -3.1321
 [node name="Coin48" parent="Coins" instance=ExtResource("14_87t64")]
 position = Vector2(-219, -380)
 rotation = -3.1321
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="."]
+position = Vector2(-869, -581)
+shape = SubResource("RectangleShape2D_8qu1o")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="."]
+position = Vector2(-754, -543)
+shape = SubResource("RectangleShape2D_8qu1o")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="."]
+position = Vector2(-621, -506)
+shape = SubResource("RectangleShape2D_8qu1o")
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="."]
+position = Vector2(-554, -243)
+shape = SubResource("RectangleShape2D_8qu1o")
+
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="."]
+position = Vector2(-366, -243)
+shape = SubResource("RectangleShape2D_8qu1o")
