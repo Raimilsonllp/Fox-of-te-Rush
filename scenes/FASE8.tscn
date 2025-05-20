@@ -1,10 +1,10 @@
 [gd_scene load_steps=15 format=3 uid="uid://b75t882gcxchl"]
 
-[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_035d4"]
+[ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_035d4"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_mgru7"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_xy68g"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="6_xgyut"]
-[ext_resource type="Script" path="res://scripts/Camera2D.gd" id="8_sq5v6"]
+[ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="8_sq5v6"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="9_qy0c5"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="10_pg5aq"]
 [ext_resource type="PackedScene" uid="uid://cayxes377f026" path="res://scenes/menu.tscn" id="11_ijesk"]

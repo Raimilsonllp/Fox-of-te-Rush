@@ -1,13 +1,13 @@
 [gd_scene load_steps=20 format=3 uid="uid://c2meiatwul2a0"]
 
-[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_ih6m8"]
+[ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_ih6m8"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_ws06l"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_4kheq"]
 [ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://scenes/killzone.tscn" id="4_unl7h"]
 [ext_resource type="PackedScene" uid="uid://ipcpyxf7vqhy" path="res://scenes/espinhos.tscn" id="6_cjydu"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="7_t3aqp"]
 [ext_resource type="PackedScene" uid="uid://d2w2i5h0lhc6l" path="res://scenes/slime.tscn" id="8_vemsr"]
-[ext_resource type="Script" path="res://scripts/Camera2D.gd" id="9_fix46"]
+[ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="9_fix46"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="10_w1jyh"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="11_638qp"]
 [ext_resource type="PackedScene" uid="uid://b75t882gcxchl" path="res://scenes/FASE8.tscn" id="11_u217x"]
@@ -396,10 +396,31 @@ position = Vector2(-506, -541)
 position = Vector2(-490, -541)
 
 [node name="espinhos3" parent="." instance=ExtResource("6_cjydu")]
-position = Vector2(-720, -301)
+position = Vector2(-800, -301)
+
+[node name="espinhos10" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-784, -301)
+
+[node name="espinhos13" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-768, -301)
+
+[node name="espinhos18" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-898, -301)
+
+[node name="espinhos19" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-882, -301)
+
+[node name="espinhos20" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-866, -301)
+
+[node name="espinhos21" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-850, -301)
 
 [node name="espinhos4" parent="." instance=ExtResource("6_cjydu")]
-position = Vector2(-704, -301)
+position = Vector2(-705, -301)
+
+[node name="espinhos17" parent="." instance=ExtResource("6_cjydu")]
+position = Vector2(-720, -301)
 
 [node name="espinhos5" parent="." instance=ExtResource("6_cjydu")]
 position = Vector2(-1028, -684)
@@ -441,12 +462,6 @@ position = Vector2(-918, -85)
 
 [node name="Slime3" parent="." instance=ExtResource("8_vemsr")]
 position = Vector2(-302, -309)
-
-[node name="Slime6" parent="." instance=ExtResource("8_vemsr")]
-position = Vector2(-784, -293)
-
-[node name="Slime7" parent="." instance=ExtResource("8_vemsr")]
-position = Vector2(-872, -293)
 
 [node name="Slime4" parent="." instance=ExtResource("8_vemsr")]
 position = Vector2(-182, -308)

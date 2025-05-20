@@ -1,7 +1,7 @@
 [gd_scene load_steps=20 format=3 uid="uid://cuv4vme4rwno0"]
 
 [ext_resource type="Texture2D" uid="uid://d4hwvu2bdwv0o" path="res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/1.png" id="1_mi4u1"]
-[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_psisi"]
+[ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_psisi"]
 [ext_resource type="Texture2D" uid="uid://cld3dothi762x" path="res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/4.png" id="2_p5etf"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_yn0wo"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="4_shg2k"]
@@ -10,7 +10,7 @@
 [ext_resource type="PackedScene" uid="uid://bgv5v2fxqlswe" path="res://scenes/platform.tscn" id="7_fhlpi"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="8_ko8f6"]
 [ext_resource type="PackedScene" uid="uid://d2w2i5h0lhc6l" path="res://scenes/slime.tscn" id="9_12hc3"]
-[ext_resource type="Script" path="res://scripts/Camera2D.gd" id="9_bjent"]
+[ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="9_bjent"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="10_w2kpx"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="11_hacw3"]
 [ext_resource type="PackedScene" uid="uid://cayxes377f026" path="res://scenes/menu.tscn" id="12_lot0e"]
