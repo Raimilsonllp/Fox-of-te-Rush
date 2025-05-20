@@ -4,10 +4,10 @@
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_mgru7"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_xy68g"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="6_xgyut"]
+[ext_resource type="PackedScene" uid="uid://n2a7ogsyo6vm" path="res://scenes/FASE9.tscn" id="8_8b618"]
 [ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="8_sq5v6"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="9_qy0c5"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="10_pg5aq"]
-[ext_resource type="PackedScene" uid="uid://cayxes377f026" path="res://scenes/menu.tscn" id="11_ijesk"]
 [ext_resource type="PackedScene" uid="uid://dp18sl1moehdt" path="res://scenes/pause_menu.tscn" id="12_ocn8b"]
 [ext_resource type="PackedScene" uid="uid://pqp5qaw561fr" path="res://scenes/coin.tscn" id="13_hy3hr"]
 
@@ -878,7 +878,7 @@ offset_bottom = -398.0
 theme_override_colors/font_color = Color(0, 0, 0.12549, 1)
 theme_override_fonts/font = ExtResource("6_xgyut")
 theme_override_font_sizes/font_size = 8
-text = "Enter to Hell"
+text = ". . . ?"
 horizontal_alignment = 1
 
 [node name="Parede" type="StaticBody2D" parent="."]
@@ -903,7 +903,7 @@ max_zoom = 3.0
 [node name="door" parent="." instance=ExtResource("10_pg5aq")]
 position = Vector2(-350, -386)
 objetivo = 23
-destino = ExtResource("11_ijesk")
+destino = ExtResource("8_8b618")
 
 [node name="Pause_menu" parent="." instance=ExtResource("12_ocn8b")]
 
