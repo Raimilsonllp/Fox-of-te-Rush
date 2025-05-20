@@ -1,14 +1,14 @@
-[gd_scene load_steps=21 format=3 uid="uid://clg8jxvgmatyd"]
+[gd_scene load_steps=22 format=3 uid="uid://clg8jxvgmatyd"]
 
 [ext_resource type="Texture2D" uid="uid://dgpygwrtvw0r4" path="res://cenario/ChatGPT Image 13 de mai. de 2025, 16_00_22.png" id="1_8pu7o"]
-[ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_fymqj"]
+[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_fymqj"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_lhl18"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_u7f1n"]
 [ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://scenes/killzone.tscn" id="4_25x54"]
 [ext_resource type="PackedScene" uid="uid://2hm82hsyulv8" path="res://scenes/platformf_3.tscn" id="5_2t316"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="6_hbi5c"]
 [ext_resource type="PackedScene" uid="uid://d2w2i5h0lhc6l" path="res://scenes/slime.tscn" id="7_775y0"]
-[ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="8_5stt5"]
+[ext_resource type="Script" path="res://scripts/Camera2D.gd" id="8_5stt5"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="9_4qjw8"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="10_frle4"]
 [ext_resource type="PackedScene" uid="uid://ci4k2md7wvgc6" path="res://scenes/Video2.tscn" id="11_fxtm7"]
@@ -236,6 +236,9 @@ sources/2 = SubResource("TileSetAtlasSource_egf0w")
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_cn5tm"]
 distance = -117.0
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_e0qsh"]
+size = Vector2(219, 8.4375)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ofyrh"]
 size = Vector2(28, 534)
 
@@ -273,6 +276,14 @@ position = Vector2(74, 141)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
 position = Vector2(-801, -187)
 shape = SubResource("WorldBoundaryShape2D_cn5tm")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Killzone"]
+position = Vector2(-840, -677)
+shape = SubResource("RectangleShape2D_e0qsh")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Killzone"]
+position = Vector2(-973, -520)
+shape = SubResource("RectangleShape2D_e0qsh")
 
 [node name="Platforms" type="Node" parent="."]
 

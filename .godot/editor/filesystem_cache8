@@ -1,0 +1,359 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1747762746
+default_bus_layout.tres::AudioBusLayout::6154612993266235982::1743706416::0::1::::<><>::
+icon.svg::CompressedTexture2D::6469127827471254761::1746812206::1747762748::1::::<><>::
+slimedeath.gd::GDScript::-1::1747414422::0::1::::<>AnimatedSprite2D<>::
+video_1.gd::GDScript::-1::1747339158::0::1::::<>VideoStreamPlayer<>::
+::res://assets/::1747339200
+Spikes.png::CompressedTexture2D::1072493833058243332::1747339158::1747762751::1::::<><>::
+::res://assets/fonts/::1747760540
+PixelOperator8-Bold.ttf::FontFile::6936941770277928638::1743706416::1747762748::1::::<><>::
+PixelOperator8.ttf::FontFile::7248744870507454393::1743706416::1747762748::1::::<><>::
+::res://assets/Foxy/::1747760070
+Fox Sprite Sheet.png::CompressedTexture2D::6748434276534338335::1744738672::1747762751::1::::<><>::
+Spritesheet-Foxy.png::CompressedTexture2D::5340079641838049396::1743706416::1747762751::1::::<><>::
+spritesheet.png::CompressedTexture2D::5629936057031697966::1743706416::1747762751::1::::<><>::
+::res://assets/Free/::1747335578
+20 Enemies.png::CompressedTexture2D::4066134154165704969::1743706416::1747762748::1::::<><>::
+Hello.png::CompressedTexture2D::4740088615624780928::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Background/::1747760078
+Blue.png::CompressedTexture2D::6020377610988693901::1743706416::1747762751::1::::<><>::
+Brown.png::CompressedTexture2D::1827460227562210972::1743706416::1747762751::1::::<><>::
+Gray.png::CompressedTexture2D::9090794494868640000::1743706416::1747762751::1::::<><>::
+Green.png::CompressedTexture2D::2767533861413573645::1743706416::1747762751::1::::<><>::
+Pink.png::CompressedTexture2D::2133054118017442788::1743706416::1747762751::1::::<><>::
+Purple.png::CompressedTexture2D::7521286513240194774::1743706416::1747762751::1::::<><>::
+Yellow.png::CompressedTexture2D::2606433904153173410::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/::1743706416
+::res://assets/Free/Items/Boxes/::1747760292
+::res://assets/Free/Items/Boxes/Box1/::1747760292
+Break.png::CompressedTexture2D::5854466867006421780::1743706416::1747762751::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::2575876644692516973::1743706416::1747762751::1::::<><>::
+Idle.png::CompressedTexture2D::6544373381115126499::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Boxes/Box2/::1747335578
+Break.png::CompressedTexture2D::6979181253861538768::1743706416::1747762751::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::4145458404718693276::1743706416::1747762751::1::::<><>::
+Idle.png::CompressedTexture2D::1270840039263150337::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Boxes/Box3/::1747335578
+Break.png::CompressedTexture2D::8225089191620269932::1743706416::1747762751::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::3750765501556256600::1743706416::1747762751::1::::<><>::
+Idle.png::CompressedTexture2D::1808197285162240743::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Checkpoints/::1746810368
+::res://assets/Free/Items/Checkpoints/Checkpoint/::1747760218
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::8644311072158799675::1743706416::1747762751::1::::<><>::
+Checkpoint (Flag Out) (64x64).png::CompressedTexture2D::1685315913430048352::1743706416::1747762751::1::::<><>::
+Checkpoint (No Flag).png::CompressedTexture2D::8845177977536545433::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Checkpoints/End/::1747760228
+End (Idle).png::CompressedTexture2D::6405339748270934908::1743706416::1747762751::1::::<><>::
+End (Pressed) (64x64).png::CompressedTexture2D::7911133566830630173::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Checkpoints/Start/::1747760218
+Start (Idle).png::CompressedTexture2D::4387306317791001652::1743706416::1747762751::1::::<><>::
+Start (Moving) (64x64).png::CompressedTexture2D::8971008468300123796::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Items/Fruits/::1747760258
+Apple.png::CompressedTexture2D::5414015439780407172::1743706416::1747762751::1::::<><>::
+Bananas.png::CompressedTexture2D::9200896951101615468::1743706416::1747762751::1::::<><>::
+Cherries.png::CompressedTexture2D::8301869749043572154::1743706416::1747762751::1::::<><>::
+Collected.png::CompressedTexture2D::7185757311173568294::1743706416::1747762751::1::::<><>::
+Kiwi.png::CompressedTexture2D::7027249756890455220::1743706416::1747762751::1::::<><>::
+Melon.png::CompressedTexture2D::5494505972194207204::1743706416::1747762751::1::::<><>::
+Orange.png::CompressedTexture2D::263507539707615632::1743706416::1747762751::1::::<><>::
+Pineapple.png::CompressedTexture2D::8091542787915592082::1743706416::1747762751::1::::<><>::
+Strawberry.png::CompressedTexture2D::2047147364261063540::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Main Characters/::1747760080
+Appearing (96x96).png::CompressedTexture2D::1940758102039034034::1743706416::1747762752::1::::<><>::
+Desappearing (96x96).png::CompressedTexture2D::9024548916118767933::1743706416::1747762752::1::::<><>::
+::res://assets/Free/Main Characters/Mask Dude/::1747760080
+Double Jump (32x32).png::CompressedTexture2D::5887591240385761059::1743706416::1747762751::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::746284772703523451::1743706416::1747762751::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::3260429897629530837::1743706416::1747762751::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::2662426820590192945::1743706416::1747762751::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::6585514134964726908::1743706416::1747762751::1::::<><>::
+Run (32x32).png::CompressedTexture2D::4964554551408873762::1743706416::1747762751::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::6726548773703897241::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Main Characters/Ninja Frog/::1747760080
+Double Jump (32x32).png::CompressedTexture2D::2583757078036009774::1743706416::1747762751::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::7557357074341465495::1743706416::1747762751::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::2324314629262449202::1743706416::1747762751::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::7148006150496558957::1743706416::1747762751::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::3537442543121076983::1743706416::1747762751::1::::<><>::
+Run (32x32).png::CompressedTexture2D::111792950050631069::1743706416::1747762751::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::1598066650200125704::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Main Characters/Pink Man/::1747760080
+Double Jump (32x32).png::CompressedTexture2D::8333764291336026762::1743706416::1747762751::1::::<><>::
+Fall (32x32) - cópia.png::CompressedTexture2D::6233515342672039913::1743706416::1747762751::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::5499644084707688352::1743706416::1747762751::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::1805588556708863471::1743706416::1747762751::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::3408806534790126390::1743706416::1747762751::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::1284912647892749689::1743706416::1747762751::1::::<><>::
+Run (32x32).png::CompressedTexture2D::8766888766196017899::1743706416::1747762751::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::1214256946267747380::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Main Characters/Virtual Guy/::1747760080
+Double Jump (32x32).png::CompressedTexture2D::2802240479187571716::1743706416::1747762751::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::7442934413630212440::1743706416::1747762751::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::4406056444191451089::1743706416::1747762751::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::3890159960851242604::1743706416::1747762751::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::2538567276160538177::1743706416::1747762751::1::::<><>::
+Run (32x32).png::CompressedTexture2D::2243910427390188040::1743706416::1747762751::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::784553029372080417::1743706416::1747762751::1::::<><>::
+::res://assets/Free/Menu/::1743706416
+::res://assets/Free/Menu/Buttons/::1747760196
+Achievements.png::CompressedTexture2D::5079251194025957454::1743706416::1747762752::1::::<><>::
+Back.png::CompressedTexture2D::6667039128403287379::1743706416::1747762752::1::::<><>::
+Close.png::CompressedTexture2D::1079797142203740125::1743706416::1747762752::1::::<><>::
+Leaderboard.png::CompressedTexture2D::3109806091906248500::1743706416::1747762752::1::::<><>::
+Levels.png::CompressedTexture2D::8649931136346030572::1743706416::1747762752::1::::<><>::
+Next.png::CompressedTexture2D::2947008895116629207::1743706416::1747762752::1::::<><>::
+Play.png::CompressedTexture2D::4352913386424557396::1743706416::1747762752::1::::<><>::
+Previous.png::CompressedTexture2D::7094974258818027661::1743706416::1747762752::1::::<><>::
+Restart.png::CompressedTexture2D::8084896851340428735::1743706416::1747762752::1::::<><>::
+Settings.png::CompressedTexture2D::3039006754206866866::1743706416::1747762752::1::::<><>::
+Volume.png::CompressedTexture2D::8690164536745603643::1743706416::1747762752::1::::<><>::
+::res://assets/Free/Menu/Levels/::1747760218
+01.png::CompressedTexture2D::6090326734123898190::1743706416::1747762752::1::::<><>::
+02.png::CompressedTexture2D::3859607572767592766::1743706416::1747762752::1::::<><>::
+03.png::CompressedTexture2D::4487840715656252842::1743706416::1747762752::1::::<><>::
+04.png::CompressedTexture2D::8438301184563085867::1743706416::1747762752::1::::<><>::
+05.png::CompressedTexture2D::1828614562463526080::1743706416::1747762752::1::::<><>::
+06.png::CompressedTexture2D::835499642980481674::1743706416::1747762752::1::::<><>::
+07.png::CompressedTexture2D::477827411954968007::1743706416::1747762752::1::::<><>::
+08.png::CompressedTexture2D::2454093315339703575::1743706416::1747762752::1::::<><>::
+09.png::CompressedTexture2D::3108048655071990410::1743706416::1747762752::1::::<><>::
+10.png::CompressedTexture2D::7159404536779959127::1743706416::1747762752::1::::<><>::
+11.png::CompressedTexture2D::2531737659526259364::1743706416::1747762752::1::::<><>::
+12.png::CompressedTexture2D::3175059813218779778::1743706416::1747762752::1::::<><>::
+13.png::CompressedTexture2D::1427881057414256229::1743706416::1747762751::1::::<><>::
+14.png::CompressedTexture2D::5379681903091501713::1743706416::1747762751::1::::<><>::
+15.png::CompressedTexture2D::4457535814606738834::1743706416::1747762751::1::::<><>::
+16.png::CompressedTexture2D::5182650614021392276::1743706416::1747762751::1::::<><>::
+17.png::CompressedTexture2D::796092364750827308::1743706416::1747762751::1::::<><>::
+18.png::CompressedTexture2D::603328993166048031::1743706416::1747762751::1::::<><>::
+19.png::CompressedTexture2D::2620216363101433725::1743706416::1747762751::1::::<><>::
+20.png::CompressedTexture2D::4598870851282090446::1743706416::1747762751::1::::<><>::
+21.png::CompressedTexture2D::7553938045947290337::1743706416::1747762751::1::::<><>::
+22.png::CompressedTexture2D::4229453654380425872::1743706416::1747762751::1::::<><>::
+23.png::CompressedTexture2D::485223748037496631::1743706416::1747762751::1::::<><>::
+24.png::CompressedTexture2D::5474191761030255860::1743706416::1747762751::1::::<><>::
+25.png::CompressedTexture2D::3798397236710817722::1743706416::1747762751::1::::<><>::
+26.png::CompressedTexture2D::2197373571717260204::1743706416::1747762751::1::::<><>::
+27.png::CompressedTexture2D::856037361158651256::1743706416::1747762751::1::::<><>::
+28.png::CompressedTexture2D::94821129196995543::1743706416::1747762751::1::::<><>::
+29.png::CompressedTexture2D::5716138757649237988::1743706416::1747762751::1::::<><>::
+30.png::CompressedTexture2D::4645809959526838731::1743706416::1747762751::1::::<><>::
+31.png::CompressedTexture2D::8295170297861452510::1743706416::1747762751::1::::<><>::
+32.png::CompressedTexture2D::2761571315613983340::1743706416::1747762751::1::::<><>::
+33.png::CompressedTexture2D::7472862572876621541::1743706416::1747762751::1::::<><>::
+34.png::CompressedTexture2D::7209195439981165381::1743706416::1747762751::1::::<><>::
+35.png::CompressedTexture2D::4820244928838852219::1743706416::1747762751::1::::<><>::
+36.png::CompressedTexture2D::1021786889409140736::1743706416::1747762751::1::::<><>::
+37.png::CompressedTexture2D::4327826859791282183::1743706416::1747762751::1::::<><>::
+38.png::CompressedTexture2D::6049662320088367972::1743706416::1747762751::1::::<><>::
+39.png::CompressedTexture2D::1490747418841797433::1743706416::1747762751::1::::<><>::
+40.png::CompressedTexture2D::1194217710200417266::1743706416::1747762751::1::::<><>::
+41.png::CompressedTexture2D::8417799029402131685::1743706416::1747762751::1::::<><>::
+42.png::CompressedTexture2D::4414198584943545756::1743706416::1747762751::1::::<><>::
+43.png::CompressedTexture2D::1211621282531478444::1743706416::1747762751::1::::<><>::
+44.png::CompressedTexture2D::294721194263322153::1743706416::1747762751::1::::<><>::
+45.png::CompressedTexture2D::6418528716425379399::1743706416::1747762751::1::::<><>::
+46.png::CompressedTexture2D::2937068249043769179::1743706416::1747762751::1::::<><>::
+47.png::CompressedTexture2D::1332809593040923961::1743706416::1747762748::1::::<><>::
+48.png::CompressedTexture2D::1945759186296782941::1743706416::1747762748::1::::<><>::
+49.png::CompressedTexture2D::2453640490067227937::1743706416::1747762748::1::::<><>::
+50.png::CompressedTexture2D::4524558524370017551::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Menu/Text/::1747760196
+Text (Black) (8x10).png::CompressedTexture2D::5300764724252294272::1743706416::1747762748::1::::<><>::
+Text (White) (8x10).png::CompressedTexture2D::3616321165353255199::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Other/::1747760080
+Confetti (16x16).png::CompressedTexture2D::2597465570301550960::1743706416::1747762748::1::::<><>::
+Dust Particle.png::CompressedTexture2D::594738208811478320::1743706416::1747762748::1::::<><>::
+Shadow.png::CompressedTexture2D::2780223282622300952::1743706416::1747762748::1::::<><>::
+Transition.png::CompressedTexture2D::7599995211654325152::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Terrain/::1747760218
+Terrain (16x16).png::CompressedTexture2D::1404712522166206459::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/::1747760170
+::res://assets/Free/Traps/Arrow/::1747760154
+Hit (18x18).png::CompressedTexture2D::8258038822383283578::1743706416::1747762748::1::::<><>::
+Idle (18x18).png::CompressedTexture2D::7524027111200631718::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Blocks/::1747335576
+HitSide (22x22).png::CompressedTexture2D::4275062931967537625::1743706416::1747762748::1::::<><>::
+HitTop (22x22).png::CompressedTexture2D::7442200861863070476::1743706416::1747762748::1::::<><>::
+Idle.png::CompressedTexture2D::5740851186919599568::1743706416::1747762748::1::::<><>::
+Part 1 (22x22).png::CompressedTexture2D::4781004342863921418::1743706416::1747762748::1::::<><>::
+Part 2 (22x22).png::CompressedTexture2D::6469616293101192523::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Falling Platforms/::1747335576
+Off.png::CompressedTexture2D::1053986108792554855::1743706416::1747762748::1::::<><>::
+On (32x10).png::CompressedTexture2D::1483358591917528071::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Fan/::1747760170
+Off.png::CompressedTexture2D::3845220014913171326::1743706416::1747762748::1::::<><>::
+On (24x8).png::CompressedTexture2D::7809801172491277034::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Fire/::1747760164
+Hit (16x32).png::CompressedTexture2D::743110150871720666::1743706416::1747762748::1::::<><>::
+Off.png::CompressedTexture2D::2890603054837943962::1743706416::1747762748::1::::<><>::
+On (16x32).png::CompressedTexture2D::4581769093755102779::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Platforms/::1747760114
+Brown Off.png::CompressedTexture2D::5007622703100604677::1743706416::1747762748::1::::<><>::
+Brown On (32x8).png::CompressedTexture2D::4652477697283732698::1743706416::1747762748::1::::<><>::
+Chain.png::CompressedTexture2D::2233370977238361384::1743706416::1747762748::1::::<><>::
+Grey Off.png::CompressedTexture2D::2371790649819117850::1743706416::1747762748::1::::<><>::
+Grey On (32x8).png::CompressedTexture2D::4339833598221542487::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Rock Head/::1747760164
+Blink (42x42).png::CompressedTexture2D::4898726019654568599::1743706416::1747762748::1::::<><>::
+Bottom Hit (42x42).png::CompressedTexture2D::377672725534302543::1743706416::1747762748::1::::<><>::
+Idle.png::CompressedTexture2D::7738081108079109534::1743706416::1747762748::1::::<><>::
+Left Hit (42x42).png::CompressedTexture2D::7326261404364213686::1743706416::1747762748::1::::<><>::
+Right Hit (42x42).png::CompressedTexture2D::3924689613111854350::1743706416::1747762748::1::::<><>::
+Top Hit (42x42).png::CompressedTexture2D::3743689447446811427::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Sand Mud Ice/::1747760154
+Ice Particle.png::CompressedTexture2D::8543035272792040760::1743706416::1747762748::1::::<><>::
+Mud Particle.png::CompressedTexture2D::7821660465421940512::1743706416::1747762748::1::::<><>::
+Sand Mud Ice (16x6).png::CompressedTexture2D::3438646195041361906::1743706416::1747762748::1::::<><>::
+Sand Particle.png::CompressedTexture2D::7957092062954156097::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Saw/::1747335576
+Chain.png::CompressedTexture2D::5949211563747661038::1743706416::1747762748::1::::<><>::
+Off.png::CompressedTexture2D::3415891744903160752::1743706416::1747762748::1::::<><>::
+On (38x38).png::CompressedTexture2D::5922345155696487573::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Spike Head/::1747760154
+Blink (54x52).png::CompressedTexture2D::2803727089216481365::1743706416::1747762748::1::::<><>::
+Bottom Hit (54x52).png::CompressedTexture2D::29109695126754828::1743706416::1747762748::1::::<><>::
+Idle.png::CompressedTexture2D::1700021595525891479::1743706416::1747762748::1::::<><>::
+Left Hit (54x52).png::CompressedTexture2D::2644187298206494624::1743706416::1747762748::1::::<><>::
+Right Hit (54x52).png::CompressedTexture2D::4215127622743338529::1743706416::1747762748::1::::<><>::
+Top Hit (54x52).png::CompressedTexture2D::6173541784208925772::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Spiked Ball/::1747760154
+Chain.png::CompressedTexture2D::93342678217714744::1743706416::1747762748::1::::<><>::
+Spiked Ball.png::CompressedTexture2D::4293721356198374013::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Spikes/::1747760154
+Idle.png::CompressedTexture2D::1224703515406970622::1743706416::1747762748::1::::<><>::
+::res://assets/Free/Traps/Trampoline/::1747760170
+Idle.png::CompressedTexture2D::2156734403715567748::1743706416::1747762748::1::::<><>::
+Jump (28x28).png::CompressedTexture2D::2519188785234763736::1743706416::1747762748::1::::<><>::
+::res://assets/music/::1747425638
+boamusica.mp3::AudioStreamMP3::7977742732851460006::1747421976::1747762748::1::::<><>::
+musicaboa.mp3::AudioStreamMP3::7823357474702413734::1747421286::1747762748::1::::<><>::
+time_for_adventure.mp3::AudioStreamMP3::910032320464020072::1743706416::1747762748::1::::<><>::
+velhooeste.mp3::AudioStreamMP3::3987116386575422648::1747425548::1747762748::1::::<><>::
+WhatsApp-Audio-2025-04-11-at-16.30.28.mp3::AudioStreamMP3::472547770515580632::1746208006::1747762748::1::::<><>::
+WhatsApp-Audio-2025-04-11-at-16.44.52.mp3::AudioStreamMP3::5503334956075311::1745956178::1747762748::1::::<><>::
+::res://assets/sounds/::1747760448
+coin.wav::AudioStreamWAV::540128631005207270::1743706416::1747762752::1::::<><>::
+explosion.wav::AudioStreamWAV::3923250085558049769::1743706416::1747762752::1::::<><>::
+hurt.wav::AudioStreamWAV::9136989958465260607::1743706416::1747762752::1::::<><>::
+jump.wav::AudioStreamWAV::4555448410108296144::1743706416::1747762752::1::::<><>::
+power_up.wav::AudioStreamWAV::5280086168748845488::1743706416::1747762752::1::::<><>::
+tap.wav::AudioStreamWAV::8577790250360397841::1743706416::1747762752::1::::<><>::
+WhatsApp-Audio-2025-04-29-at-14.19.44.mp3::AudioStreamMP3::6162402900135493061::1746212884::1747762748::1::::<><>::
+::res://assets/sprites/::1747760520
+coin.png::CompressedTexture2D::3447739040894185057::1743706416::1747762751::1::::<><>::
+fruit.png::CompressedTexture2D::470233896381552850::1743706416::1747762751::1::::<><>::
+knight.png::CompressedTexture2D::4707526479979974505::1743706416::1747762751::1::::<><>::
+platforms.png::CompressedTexture2D::6429460309075172824::1743706416::1747762751::1::::<><>::
+slime_green.png::CompressedTexture2D::3222140907498469096::1743706416::1747762751::1::::<><>::
+slime_purple.png::CompressedTexture2D::3959724587980025257::1743706416::1747762751::1::::<><>::
+world_tileset.png::CompressedTexture2D::263196027477670198::1743706416::1747762751::1::::<><>::
+::res://assets/Video/::1747339198
+video1.ogv::VideoStreamTheora::-1::1747339158::0::1::::<><>::
+WhatsApp-Video-2025-05-11-at-17.28.31.ogv::VideoStreamTheora::-1::1747339158::0::1::::<><>::
+::res://cenario/::1747758852
+1.png::CompressedTexture2D::2697250768831349461::1747339158::1747762749::1::::<><>::
+11153437-fundo-de-nivel-de-jogo-de-8-bits-de-paisagem-de-deserto-de-pixel-vetor.jpg::CompressedTexture2D::687690463264556595::1747339158::1747762749::1::::<><>::
+41844718-removebg-preview.png::CompressedTexture2D::8406310309894128107::1743706416::1747762749::1::::<><>::
+CAPA JOGO.png::CompressedTexture2D::3685941262805849434::1743706416::1747762749::1::::<><>::
+ChatGPT Image 13 de mai. de 2025, 15_55_44.png::CompressedTexture2D::5272932656220868016::1747339158::1747762750::1::::<><>::
+ChatGPT Image 13 de mai. de 2025, 16_00_22.png::CompressedTexture2D::7612829884475827171::1747339158::1747762750::1::::<><>::
+pixilart-drawing (2).png::CompressedTexture2D::6879871757259793911::1743706416::1747762749::1::::<><>::
+Reference-Image.png::CompressedTexture2D::1166556149866790980::1596389730::1747762752::1::::<><>::
+sky-cloud-red.png::CompressedTexture2D::8496838560988205612::1746811466::1747762751::1::::<><>::
+Textures-16.png::CompressedTexture2D::280536625407352786::1743706416::1747762750::1::::<><>::
+WhatsApp Image 2025-05-16 at 14.04.45 (1).jpeg::CompressedTexture2D::779587291043219249::1747424904::1747762751::1::::<><>::
+WhatsApp Image 2025-05-16 at 14.12.01.jpeg::CompressedTexture2D::205025413927500041::1747424896::1747762751::1::::<><>::
+WhatsApp Image 2025-05-16 at 16.45.39.jpeg::CompressedTexture2D::7471673860882874571::1747424910::1747762750::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/::1747758852
+License.txt::TextFile::-1::1743706416::0::1::::<><>::
+Patreon.txt::TextFile::-1::1743706416::0::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/::1747758852
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/::1747758850
+1.png::CompressedTexture2D::833808825112631760::1743706416::1747762751::1::::<><>::
+2.png::CompressedTexture2D::118382050215600917::1743706416::1747762751::1::::<><>::
+3.png::CompressedTexture2D::1790805607878367260::1743706416::1747762751::1::::<><>::
+4.png::CompressedTexture2D::1108490974948372934::1743706416::1747762751::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/::1747335578
+1.png::CompressedTexture2D::8371508121686499950::1743706416::1747762751::1::::<><>::
+2.png::CompressedTexture2D::7778707699987033225::1743706416::1747762751::1::::<><>::
+3.png::CompressedTexture2D::3476772257199817332::1743706416::1747762751::1::::<><>::
+4.png::CompressedTexture2D::3461086490797675810::1743706416::1747762751::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/::1747758852
+1.png::CompressedTexture2D::2340297276768034835::1743706416::1747762751::1::::<><>::
+2.png::CompressedTexture2D::8193283691882479097::1743706416::1747762751::1::::<><>::
+3.png::CompressedTexture2D::2899024263418962413::1743706416::1747762751::1::::<><>::
+4.png::CompressedTexture2D::5610881491547619204::1743706416::1747762751::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/::1747758852
+1.png::CompressedTexture2D::2930557195637898574::1743706416::1747762751::1::::<><>::
+2.png::CompressedTexture2D::2247910188864957806::1743706416::1747762751::1::::<><>::
+3.png::CompressedTexture2D::250908235347987219::1743706416::1747762751::1::::<><>::
+4.png::CompressedTexture2D::7001801269019321766::1743706416::1747762748::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/::1747758852
+1.png::CompressedTexture2D::9210563528600582132::1743706416::1747762748::1::::<><>::
+2.png::CompressedTexture2D::4743258729669506966::1743706416::1747762748::1::::<><>::
+3.png::CompressedTexture2D::4216176917510064421::1743706416::1747762748::1::::<><>::
+4.png::CompressedTexture2D::5552817978854132425::1743706416::1747762748::1::::<><>::
+5.png::CompressedTexture2D::6504565148404383692::1743706416::1747762749::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/::1747758850
+1.png::CompressedTexture2D::7078543671856435394::1743706416::1747762748::1::::<><>::
+2.png::CompressedTexture2D::2207118156156300491::1743706416::1747762749::1::::<><>::
+3.png::CompressedTexture2D::7980263750375494380::1743706416::1747762749::1::::<><>::
+4.png::CompressedTexture2D::7831729668181217553::1743706416::1747762749::1::::<><>::
+5.png::CompressedTexture2D::483598551123459766::1743706416::1747762749::1::::<><>::
+6.png::CompressedTexture2D::4826046058165226477::1743706416::1747762749::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/::1747758852
+1.png::CompressedTexture2D::1335373748597191438::1743706416::1747762749::1::::<><>::
+2.png::CompressedTexture2D::8303596678850250483::1743706416::1747762749::1::::<><>::
+3.png::CompressedTexture2D::8877357960850390763::1743706416::1747762749::1::::<><>::
+4.png::CompressedTexture2D::636501408099263204::1743706416::1747762749::1::::<><>::
+::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/::1747758850
+1.png::CompressedTexture2D::5108424023583969666::1743706416::1747762749::1::::<><>::
+2.png::CompressedTexture2D::4047740702678005262::1743706416::1747762749::1::::<><>::
+3.png::CompressedTexture2D::5179186413125794907::1743706416::1747762749::1::::<><>::
+4.png::CompressedTexture2D::6735852625872893188::1743706416::1747762749::1::::<><>::
+5.png::CompressedTexture2D::5681973036258462732::1743706416::1747762749::1::::<><>::
+6.png::CompressedTexture2D::7719378711422994712::1743706416::1747762749::1::::<><>::
+::res://scenes/::1747758854
+coin.tscn::PackedScene::1086827868758606395::1747414580::0::1::::<><>::uid://bped01tsjeycn::::res://assets/sprites/coin.png<>uid://bqkprkj03olqt::::res://scripts/coin.gd<>uid://hxv3svfwkg67::::res://assets/sounds/coin.wav
+door.tscn::PackedScene::5063560244270573899::1747414580::0::1::::<><>::uid://b0bw3g72bjvyd::::res://scripts/door.gd<>uid://dr1cx5ibjy0l8::::res://cenario/41844718-removebg-preview.png
+espinhos.tscn::PackedScene::592625932670951118::1747758292::0::1::::<><>::uid://pjr21fbjekns::::res://assets/Spikes.png<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn
+FASE1.tscn::PackedScene::4199745086020812156::1747414580::0::1::::<><>::uid://8lwmbqr3n6nv::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/1.png<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://bhkkrhan5ubf6::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/3.png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn<>uid://bgv5v2fxqlswe::::res://scenes/platform.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://cknkocd81sric::::res://scenes/FASE2.tscn<>uid://m73dm4jhs3eq::::res://assets/music/time_for_adventure.mp3
+FASE2.tscn::PackedScene::5502198996827590886::1747414580::0::1::::<><>::uid://drjhrsd7o0qre::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/1.png<>uid://bpsf6wmqhpdd1::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/3.png<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://bpktuaxp5saas::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/4.png<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://5gnt2hmm16bo::::res://scenes/platformf_2.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://c6ab4s8jih6v2::::res://scenes/FASE3.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn<>uid://cwvy3cv6j1p::::res://assets/music/WhatsApp-Audio-2025-04-11-at-16.44.52.mp3
+FASE3.tscn::PackedScene::6948809021999983993::1747758292::0::1::::<><>::uid://j2efqv58kjqp::::res://cenario/11153437-fundo-de-nivel-de-jogo-de-8-bits-de-paisagem-de-deserto-de-pixel-vetor.jpg<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://2hm82hsyulv8::::res://scenes/platformf_3.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e3va1iywvnju::::res://scenes/FASE4.tscn<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://bw2nhvmk5gjjs::::res://assets/music/velhooeste.mp3<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn
+FASE4.tscn::PackedScene::339834387600128386::1747758292::0::1::::<><>::uid://cheiovu6alyii::::res://cenario/ChatGPT Image 13 de mai. de 2025, 15_55_44.png<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://5gnt2hmm16bo::::res://scenes/platformf_2.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://clg8jxvgmatyd::::res://scenes/FASE5.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://dlwqi0m31qjog::::res://assets/music/boamusica.mp3<>uid://pqp5qaw561fr::::res://scenes/coin.tscn
+FASE5.tscn::PackedScene::5559325887601971775::1747758292::0::1::::<><>::uid://dgpygwrtvw0r4::::res://cenario/ChatGPT Image 13 de mai. de 2025, 16_00_22.png<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://2hm82hsyulv8::::res://scenes/platformf_3.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://ci4k2md7wvgc6::::res://scenes/Video2.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn<>uid://djpxs4eb8cr6e::::res://assets/music/musicaboa.mp3
+FASE6.tscn::PackedScene::4265298331540909702::1747758292::0::1::::<><>::uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://ipcpyxf7vqhy::::res://scenes/espinhos.tscn<>uid://bgv5v2fxqlswe::::res://scenes/platform.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://c2meiatwul2a0::::res://scenes/FASE7.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn
+FASE7.tscn::PackedScene::6692969863362152349::1747758292::0::1::::<><>::uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://ipcpyxf7vqhy::::res://scenes/espinhos.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://cayxes377f026::::res://scenes/menu.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn
+hud.tscn::PackedScene::338428163516600440::1747414580::0::1::::<><>::uid://c7ursoyc6cnre::::res://scripts/CanvasLayer.gd<>uid://bped01tsjeycn::::res://assets/sprites/coin.png<>uid://c53kogtyjwsss::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://bjkd852ofsgby::::res://assets/Free/Menu/Buttons/Settings.png<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn<>uid://cfbmqebvecf3d::::res://scenes/tempo_label.gd
+killzone.tscn::PackedScene::8528023117307378280::1747758292::0::1::::<><>::uid://c6l818fsmaq2w::::res://scripts/killzone.gd<>uid://ct2d4081qngu4::::res://assets/sounds/WhatsApp-Audio-2025-04-29-at-14.19.44.mp3
+menu.gd::GDScript::-1::1747413560::0::1::::<>Control<>::
+menu.tscn::PackedScene::4823791057664633921::1747758290::0::1::::<><>::uid://c53kogtyjwsss::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://bm8f0io1slbe::::res://scenes/menu.gd<>uid://beotlc7u8nerl::::res://cenario/1.png<>uid://4kg150o2entl::::res://scenes/music.tscn
+music.tscn::PackedScene::2056532590634627605::1747414582::0::1::::<><>::uid://m73dm4jhs3eq::::res://assets/music/time_for_adventure.mp3
+pause_menu.tscn::PackedScene::8267804950792790165::1747339230::0::1::::<><>::uid://dgky5vg0ubrml::::res://scripts/pause_menu.gd
+platform.tscn::PackedScene::2852766116732873392::1747758292::0::1::::<><>::uid://cxuqjimd7csiq::::res://assets/sprites/platforms.png
+platformf1.tscn::PackedScene::1721942766425133381::1747339230::0::1::::<><>::uid://cxuqjimd7csiq::::res://assets/sprites/platforms.png
+platformf_2.tscn::PackedScene::2118876256161890940::1747339230::0::1::::<><>::uid://cxuqjimd7csiq::::res://assets/sprites/platforms.png
+platformf_3.tscn::PackedScene::1910338387412145975::1747339230::0::1::::<><>::uid://cxuqjimd7csiq::::res://assets/sprites/platforms.png
+player.tscn::PackedScene::8309149557574787539::1747758292::0::1::::<><>::uid://bv87usbc3t8im::::res://scripts/player.gd<>uid://cic1ljhq72l6s::::res://assets/Foxy/Spritesheet-Foxy.png
+slime.tscn::PackedScene::9101432372716425337::1747758292::0::1::::<><>::uid://ci0ypikces7or::::res://scripts/slime.gd<>uid://bl53gpvg5mh1y::::res://assets/sprites/slime_green.png<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn
+slimedeath.tscn::PackedScene::2286620300159618762::1747758292::0::1::::<><>::uid://bl53gpvg5mh1y::::res://assets/sprites/slime_green.png<>uid://bb78ebr0f37pv::::res://slimedeath.gd
+tempo_label.gd::GDScript::-1::1746733606::0::1::::<>Label<>::
+teste.tscn::PackedScene::9041766735284824738::1747339230::0::1::::<><>::
+tutorial.tscn::PackedScene::6221769105244979977::1747339232::0::1::::<><>::uid://d4hwvu2bdwv0o::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/1.png<>uid://qtr1w3tm3hfg::::res://scripts/game_manager.gd<>uid://cld3dothi762x::::res://cenario/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/4.png<>uid://uapn6782gojr::::res://assets/Free/Terrain/Terrain (16x16).png<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn<>uid://bgv5v2fxqlswe::::res://scenes/platform.tscn<>uid://dbjl1e6kdxpl6::::res://assets/fonts/PixelOperator8.ttf<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn<>uid://csfjxkts6087e::::res://scripts/Camera2D.gd<>uid://e264k7dbywou::::res://scenes/hud.tscn<>uid://cee3dkvkgbs2f::::res://scenes/door.tscn<>uid://cayxes377f026::::res://scenes/menu.tscn<>uid://dp18sl1moehdt::::res://scenes/pause_menu.tscn
+Video1.tscn::PackedScene::6112019938046951166::1747414582::0::1::::<><>::uid://dc5o26arfoae::::res://assets/Video/video1.ogv<>uid://c5xjgmr2u27gc::::res://video_1.gd
+Video2.tscn::PackedScene::5394875094120071875::1747414582::0::1::::<><>::uid://dodnf8q6itiwc::::res://assets/Video/WhatsApp-Video-2025-05-11-at-17.28.31.ogv<>uid://bbpy1asstruk2::::res://scenes/video_2.gd
+video_2.gd::GDScript::-1::1747339158::0::1::::<>VideoStreamPlayer<>::
+::res://scripts/::1747759432
+Camera2D.gd::GDScript::-1::1743706416::0::1::::<>Camera2D<>::
+CanvasLayer.gd::GDScript::-1::1746733438::0::1::::<>CanvasLayer<>::
+coin.gd::GDScript::-1::1743706416::0::1::::<>Area2D<>::
+door.gd::GDScript::-1::1746561218::0::1::::<>Area2D<>::
+game_manager.gd::GDScript::-1::1746730650::0::1::::<>Node<>::
+globais.gd::GDScript::-1::1746733160::0::1::::<>Node<>::
+killzone.gd::GDScript::-1::1747417068::0::1::::<>Area2D<>::
+menu.gd::GDScript::-1::1743706416::0::1::::<>Control<>::
+pause_menu.gd::GDScript::-1::1746212432::0::1::::<>CanvasLayer<>::
+player.gd::GDScript::-1::1747421542::0::1::::<>CharacterBody2D<>::
+slime.gd::GDScript::-1::1747417718::0::1::::<>Node2D<>::
