@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://ipcpyxf7vqhy"]
+
+[ext_resource type="Texture2D" uid="uid://pjr21fbjekns" path="res://assets/Spikes.png" id="1_qb37y"]
+[ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://scenes/killzone.tscn" id="2_kgqjk"]
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_4j36b"]
+points = PackedVector2Array(-9, 4.5, 0, -4.5, 9, 4.5)
+
+[node name="espinhos" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_qb37y")
+
+[node name="Killzone" parent="." instance=ExtResource("2_kgqjk")]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
+position = Vector2(0, 3.5)
+shape = SubResource("ConvexPolygonShape2D_4j36b")
