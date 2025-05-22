@@ -16,7 +16,7 @@
 [ext_resource type="PackedScene" uid="uid://pqp5qaw561fr" path="res://scenes/coin.tscn" id="13_8n0ki"]
 [ext_resource type="AudioStream" uid="uid://djpxs4eb8cr6e" path="res://assets/music/musicaboa.mp3" id="15_u7f1n"]
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_egf0w"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_u7f1n"]
 texture = ExtResource("2_lhl18")
 0:0/0 = 0
 1:0/0 = 0
@@ -231,7 +231,7 @@ texture = ExtResource("2_lhl18")
 
 [sub_resource type="TileSet" id="TileSet_d1wst"]
 physics_layer_0/collision_layer = 1
-sources/2 = SubResource("TileSetAtlasSource_egf0w")
+sources/2 = SubResource("TileSetAtlasSource_u7f1n")
 
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_cn5tm"]
 distance = -117.0

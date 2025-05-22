@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dc3vs1d2ss7cm"
+path="res://.godot/imported/Fase 7.mp3-12a9e403dd82670055a12672170c3290.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Fase 7.mp3"
+dest_files=["res://.godot/imported/Fase 7.mp3-12a9e403dd82670055a12672170c3290.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

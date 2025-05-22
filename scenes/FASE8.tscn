@@ -1,13 +1,15 @@
-[gd_scene load_steps=15 format=3 uid="uid://b75t882gcxchl"]
+[gd_scene load_steps=17 format=3 uid="uid://b75t882gcxchl"]
 
 [ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_035d4"]
+[ext_resource type="Texture2D" uid="uid://bfji50wbo5eln" path="res://cenario/WhatsApp Image 2025-05-22 at 13.57.29.jpeg" id="1_uji57"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_mgru7"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_xy68g"]
 [ext_resource type="FontFile" uid="uid://dbjl1e6kdxpl6" path="res://assets/fonts/PixelOperator8.ttf" id="6_xgyut"]
-[ext_resource type="PackedScene" uid="uid://n2a7ogsyo6vm" path="res://scenes/FASE9.tscn" id="8_8b618"]
+[ext_resource type="PackedScene" uid="uid://c6lee3rqi4if0" path="res://scenes/FASE9.tscn" id="8_8b618"]
 [ext_resource type="Script" uid="uid://csfjxkts6087e" path="res://scripts/Camera2D.gd" id="8_sq5v6"]
 [ext_resource type="PackedScene" uid="uid://e264k7dbywou" path="res://scenes/hud.tscn" id="9_qy0c5"]
 [ext_resource type="PackedScene" uid="uid://cee3dkvkgbs2f" path="res://scenes/door.tscn" id="10_pg5aq"]
+[ext_resource type="AudioStream" uid="uid://m73dm4jhs3eq" path="res://assets/music/time_for_adventure.mp3" id="12_ape2k"]
 [ext_resource type="PackedScene" uid="uid://dp18sl1moehdt" path="res://scenes/pause_menu.tscn" id="12_ocn8b"]
 [ext_resource type="PackedScene" uid="uid://pqp5qaw561fr" path="res://scenes/coin.tscn" id="13_hy3hr"]
 
@@ -839,7 +841,7 @@ sources/2 = SubResource("TileSetAtlasSource_xunoq")
 size = Vector2(38, 859.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_pjn14"]
-size = Vector2(45, 721)
+size = Vector2(45, 936)
 
 [node name="Node2D" type="Node2D"]
 position = Vector2(51, 0)
@@ -847,12 +849,10 @@ metadata/_edit_vertical_guides_ = [-704.0, 1695.0, -707.0, 1697.0]
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
 
-[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
-position = Vector2(-1148, -675)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
-position = Vector2(590, 402)
-scale = Vector2(0.685606, 0.747222)
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground"]
+position = Vector2(580, 312)
+scale = Vector2(0.73546, 0.765295)
+texture = ExtResource("1_uji57")
 
 [node name="GameManager" type="Node" parent="."]
 unique_name_in_owner = true
@@ -889,7 +889,7 @@ position = Vector2(-927, -470)
 shape = SubResource("RectangleShape2D_ofyrh")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="Parede"]
-position = Vector2(41, -446)
+position = Vector2(41, -505)
 shape = SubResource("RectangleShape2D_pjn14")
 
 [node name="Camera2D" type="Camera2D" parent="."]
@@ -985,3 +985,7 @@ rotation = -3.1321
 [node name="Coin48" parent="Coins" instance=ExtResource("13_hy3hr")]
 position = Vector2(-784, -392)
 rotation = -3.1321
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("12_ape2k")
+parameters/looping = true

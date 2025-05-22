@@ -1,6 +1,7 @@
-[gd_scene load_steps=20 format=3 uid="uid://c2meiatwul2a0"]
+[gd_scene load_steps=22 format=3 uid="uid://c2meiatwul2a0"]
 
 [ext_resource type="Script" uid="uid://qtr1w3tm3hfg" path="res://scripts/game_manager.gd" id="1_ih6m8"]
+[ext_resource type="Texture2D" uid="uid://bvjo758a6woth" path="res://cenario/WhatsApp Image 2025-05-22 at 15.30.15.jpeg" id="1_ws06l"]
 [ext_resource type="Texture2D" uid="uid://uapn6782gojr" path="res://assets/Free/Terrain/Terrain (16x16).png" id="2_ws06l"]
 [ext_resource type="PackedScene" uid="uid://dqnaqj8yb6hwd" path="res://scenes/player.tscn" id="3_4kheq"]
 [ext_resource type="PackedScene" uid="uid://dtrbka1ef726o" path="res://scenes/killzone.tscn" id="4_unl7h"]
@@ -13,6 +14,7 @@
 [ext_resource type="PackedScene" uid="uid://b75t882gcxchl" path="res://scenes/FASE8.tscn" id="11_u217x"]
 [ext_resource type="PackedScene" uid="uid://dp18sl1moehdt" path="res://scenes/pause_menu.tscn" id="13_tjdmg"]
 [ext_resource type="PackedScene" uid="uid://pqp5qaw561fr" path="res://scenes/coin.tscn" id="14_87t64"]
+[ext_resource type="AudioStream" uid="uid://dc3vs1d2ss7cm" path="res://assets/music/Fase 7.mp3" id="15_ws06l"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_brcbn"]
 texture = ExtResource("2_ws06l")
@@ -327,12 +329,10 @@ metadata/_edit_vertical_guides_ = [-704.0, 1695.0, -707.0, 1697.0]
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
 
-[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
-position = Vector2(-1148, -675)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
-position = Vector2(590, 402)
-scale = Vector2(0.685606, 0.747222)
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground"]
+position = Vector2(577.75, 322.25)
+scale = Vector2(0.73202, 0.742492)
+texture = ExtResource("1_ws06l")
 
 [node name="GameManager" type="Node" parent="."]
 unique_name_in_owner = true
@@ -570,3 +570,8 @@ rotation = -3.1321
 [node name="Coin48" parent="Coins" instance=ExtResource("14_87t64")]
 position = Vector2(-219, -380)
 rotation = -3.1321
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("15_ws06l")
+autoplay = true
+parameters/looping = true

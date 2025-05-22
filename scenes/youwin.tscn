@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://dunb7sh3lsq32"]
+
+[ext_resource type="Texture2D" uid="uid://p2d7r4y24plb" path="res://cenario/ChatGPT Image 22 de mai. de 2025, 15_55_44.png" id="1_p8sko"]
+[ext_resource type="Script" uid="uid://bxwpukdr7vd24" path="res://scenes/youwin.gd" id="2_hnagg"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(581.5, 324.5)
+scale = Vector2(0.771484, 0.666992)
+texture = ExtResource("1_p8sko")
+script = ExtResource("2_hnagg")
+
+[node name="Exit" type="Button" parent="."]
+offset_left = 489.316
+offset_top = 359.075
+offset_right = 676.316
+offset_bottom = 434.075
+theme_override_font_sizes/font_size = 40
+text = "EXIT"
+
+[connection signal="pressed" from="Exit" to="." method="_on_exit_pressed"]
